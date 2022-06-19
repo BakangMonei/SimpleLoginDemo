@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Login Demo</string>
+    <string name="register_text">Register</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="register_btn_text">Register</string>
+</resources>
